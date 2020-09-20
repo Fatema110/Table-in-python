@@ -1,1 +1,2 @@
-# Table-in-python
+# TABLE IN PYTHON
+PRINT TABLE OF A GIVEN NUMBER
